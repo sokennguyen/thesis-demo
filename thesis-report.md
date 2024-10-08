@@ -1,4 +1,41 @@
-test
-this is a test
-this is gonna be a hell hole
-this is still a test
+# Introduction
+As technology evolves to its current form, digital marketing vehicles has becoming the the most effective way for businesses to promote their products or services. Mediums such as social medias and blogging platforms has been rising in popularity, proving their ability to elevate businesses marketing efforts. Amosngt these digital marketing mediums exist landing pages, a place where businesses can freely communicate to their potential customers, or visitors at the moment, what their business is about. Through landing pages, business can interact with their customers in their own unique ways, which is different than their social media pages or blogging articles. This distinctive ability has turn landing pages into one of the most important parts in the success of modern digital marketing.
+
+Looking more closely into the subject, landing pages themselves also have multiple components, and some of them are more important than another when it comes to their overall success. Better wordings in copies can better describe a its business details to its visitors. The right graphics can make industry's buzzwords more meaningful to novice visitors. A well organized information hierachy can pull visitors away from being lost in the jungle of words. And likewise, an effective selection of pictures can convey more meaning to potential customers than "a thousand words". This research has gone through a series of user experiment (UX) tests and surveys to better understand images, one of the most important components of landing pages. There are previous researches about the topic of images, or visual design as a whole, accross many forms of digital mediums; however, the design of images is often discussed, rather than image performances. The objective of this article is to quantify the impact of image performance on landing pages' success, by studying the relation of image performance metrics and key performance indicators (KPIs) such as bounce rate and conversion rate, and to answere some questions: How image performance, such as load time and quality, affect user engagement on landing pages? What are the relations between image performance metrics and KPIs?
+
+(Scope here)
+
+(Structure here)
+
+what the fuck is going on
+
+# Conceptual Background
+To understand the research, foundational understanding of concepts must be first established. To start off this chapter, landing pages and its value to businesses will first be defined in subchapter 2.1. Then the section will be followed with the defination of Software-as-a-Service companies in subsection 2.2. After that, several impactful Key Performance Indicators will be identified and elaborated in section 2.3, before moving onto why images can make impacts in those indicators in section 2.4. The chapter will be concluded in its final subchapter, by declaring the importance of Page Load Time in landing pages.
+
+## What is a landing page
+Landing pages are webpages belongs to individuals or organization, with the purpose for potential visitors to "land" on after clicking through its link various other digital platforms, such as newsletters or social medias platforms (Mailchimp, 2020). After accessing a landing page, visitors can be further informed about the service or product, exchange their information for trial services, subscribe to the business's newsletter, or contact the vendor for more information (Sameer, 2022). Being a part of the business's main website, or a separated page deliberately deisgned to capture visitors from accross the internet, landing pages are the foremost element in driving conversion the business (T. Ash, M. Ginty, R. Page, 2012).
+
+## Software-as-a-Service
+According to Kumar (2017), traditional software business models of lisencing prebuilt software is gradually declining, being progressively supplanted by the Software-as-a-Service (SaaS) model. SaaS applications, as Kumar notes, are delivered to their users through the internet. Because of that characteristic, SaaS applications offer less installation procedures on the user's end, and simplify the maintenacing process. Furthermore, since the cost of maintenacing the software is centrallized in the Cloud, users may be benefitted with reduced price in the end product that they're using.
+
+## Key Performance Indicators in SaaS landing pages
+Being one of the most important component in a SaaS business marketing toolkit, and the one that can raise up in cost notably, landing pages performance should be measured percisely. And like other parts of the business that need to be closely monitored, metrics can be a useful tool to do such job. Landing page performance metrics, which are usually named Key Performance Indicators (KPIs), are a list of quantifiable metrics that indicates how effective the operations of a part of the business is performing (Ekholm 2020). The following is the collection of KPIs that are correlated to the successful of SaaS landing pages.
+
+### Conversion rate
+When browsing the webpage, the visitor makes many interactions with the page from scrolling, mouse hovering to click on multiple locations on the page. If the visitor makes an interaction desired by the webpage's designer, a "conversion" is then considered successful (Saleem et al. 2019, 589).
+
+### Bounce rate
+When entering a landing page, visitors can either interact with the elements of the page, or do nothing and leave the page and move on to their next browsing task. This event is called a "bounce", and might happens due to their poor experience after entering the page. Bounce rate can be measured by taking out the amount of visitors who leave the page after a period of time without interacting anything to it. A low bounce rate can results in a lower ranking (Sculley et al. 2009).
+
+### Time on page
+Time on page is the amount of time a visitor spends on a webpage before exiting it. The metric is useful for accessing the page's engagement and content effectiveness , and through that, its ability to retain visitors (Arora 2024). [flaky source]
+
+### Engagement rate
+no source (-_-) 
+
+### Scroll depth
+Besides when the webpage fits completely in the height of the viewport, the visitor have to scroll down bellow the initial position when entering the page to experience more what the webpage has to offer. To determine how far the visitor have scrolled down on a specific page, scroll depth can be implemented in the overall measurements. Scroll depth is connected to how engaging the page is to users, and with low scroll depth, the webpage is unlikely to retain its visitor (Grothusen, 2020)
+
+## Why images in landing pages matter
+## Importance of Page Load Time
+
