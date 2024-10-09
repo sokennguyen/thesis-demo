@@ -1,0 +1,8 @@
+(images in LPs, importance of LPs) = https://ebookcentral.proquest.com/lib/lab-ebooks/reader.action?docID=817937#
+define KPIs = https://www.theseus.fi/bitstream/handle/10024/355395/Ekholm_Jasmin.pdf;jsessionid=339696B58D87C0956DD69EEA382E7F44?sequence=2
+define landing page = https://mailchimp.com/help/about-landing-pages/#:~:text=Landing%20pages%20are%20standalone%20web,other%20location%20on%20the%20web.
+benefits of landing page = https://www.jetir.org/papers/JETIR2204132.pdf
+define SaaS = https://www.journalpressindia.com/abstract.php?jid=49&aid=2156
+define conversion rate = https://www.researchgate.net/publication/332513540_Strategic_Data_Driven_Approach_to_Improve_Conversion_Rates_and_Sales_Performance_of_E-Commerce_Websites
+define bounce rate = https://www.researchgate.net/publication/221653581_Predicting_bounce_rates_in_sponsored_search_advertisements
+define scroll depth = https://www.diva-portal.org/smash/get/diva2:1460422/FULLTEXT01.pdf
